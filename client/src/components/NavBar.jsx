@@ -10,6 +10,8 @@ const NavBar = () => {
       }}>RU-Studio</Typography>
 
 <Typography variant="h4" sx={{textAlign:'center', margin:'auto', color:'bisque', '&:hover':{color:'aqua'}}}>About</Typography>
+<Typography variant="h4" sx={{textAlign:'first', margin:'auto', color:'bisque', '&:hover':{color:'aqua'}}}>projects</Typography>
+<Typography variant="h4" sx={{textAlign:'second', margin:'auto', color:'bisque', '&:hover':{color:'aqua'}}}>contact</Typography>
 
     </Box>
   )
